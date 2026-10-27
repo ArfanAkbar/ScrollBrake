@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ScrollBrake</string>
+    <string name="service_description">ScrollBrake only checks which app is on screen. When you spend too long in a social media app, it slowly fades the screen and suggests a break. It does not read your messages, posts or anything you type.</string>
+</resources>
